@@ -1,0 +1,7 @@
+subscription getNotifications{
+  notification{
+  id,
+  id_lio,
+  message
+}
+}
